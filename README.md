@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anna Beatriz and I'm a student of Machine learning, from Brazil.</p>
+<p align="left">My name is Anna Beatriz and I'm a student of Computer Science, from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ML<br>🎯 Goals: Create projects</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning HTML, CSS<br>🎯 Goals: Create new projects</p>
 
 ###
 
