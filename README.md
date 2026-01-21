@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">[English belo]<br><br>Olá! Me chamo Anna Beatriz Bandeira 👋🏻 <br>Graduanda em Ciência da Computação | Recife, PE - Brasil  <br>UI/UX Design & Desenvolvimento Full Stack  <br>Buscando oportunidade de estágio ou desenvolvedora júnior.<br>-------------------<br>Hello! My name is Anna Beatriz Bandeira 👋🏻  <br>Computer Science undergraduate | Recife, PE - Brazil  <br>UI/UX Design & Full Stack Development  <br>Seeking an internship or junior developer opportunity.</p>
+<p align="left">[English below]<br><br>Olá! Me chamo Anna Beatriz Bandeira 👋🏻 <br>Graduanda em Ciência da Computação | Recife, PE - Brasil  <br>UI/UX Design & Desenvolvimento Full Stack  <br>Buscando oportunidade de estágio ou desenvolvedora júnior.<br>-------------------<br>Hello! My name is Anna Beatriz Bandeira 👋🏻  <br>Computer Science undergraduate | Recife, PE - Brazil  <br>UI/UX Design & Full Stack Development  <br>Seeking an internship or junior developer opportunity.</p>
 
 ###
 
