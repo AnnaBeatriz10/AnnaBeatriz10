@@ -5,25 +5,6 @@
 ###
 
 <h1 align="center">💻<br>Anna Beatriz Bandeira<br>Full-stack and UI/UX Designer</h1>
-
-###
-
-<h3 align="left">Hey there 👋🏻</h3>
-
-###
-
-<p align="left">[English below]<br><br>Olá! Me chamo Anna Beatriz Bandeira 👋🏻 <br>Graduanda em Ciência da Computação | Recife, PE - Brasil  <br>UI/UX Design & Desenvolvimento Full Stack  <br>Buscando oportunidade de estágio ou desenvolvedora júnior.<br>-------------------<br>Hello! My name is Anna Beatriz Bandeira 👋🏻  <br>Computer Science undergraduate | Recife, PE - Brazil  <br>UI/UX Design & Full Stack Development  <br>Seeking an internship or junior developer opportunity.</p>
-
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<p align="left">Português - fluente<br>Inglês - Intermediário</p>
-
-###
-
 <h4 align="left">💻 Language and Tools</h4>
 
 ###
@@ -43,6 +24,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+
+###
+
+<h3 align="left">Hey there 👋🏻</h3>
+
+###
+
+<p align="left">[English below]<br><br>Olá! Me chamo Anna Beatriz Bandeira 👋🏻 <br>Graduanda em Ciência da Computação | Recife, PE - Brasil  <br>UI/UX Design & Desenvolvimento Full Stack  <br>Buscando oportunidade de estágio ou desenvolvedora júnior.<br>-------------------<br>Hello! My name is Anna Beatriz Bandeira 👋🏻  <br>Computer Science undergraduate | Recife, PE - Brazil  <br>UI/UX Design & Full Stack Development  <br>Seeking an internship or junior developer opportunity.</p>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<p align="left">Português - fluente<br>Inglês - Intermediário</p>
+
+###
+
 
 ###
 
